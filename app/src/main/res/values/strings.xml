@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EstorilPraia</string>
+    <string name="preference_file_key">user_info</string>
+    <string name="marcar_fisio">Schedule</string>
+</resources>

@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1016481412932",
+    "firebase_url": "https://androidappestoril.firebaseio.com",
+    "project_id": "androidappestoril",
+    "storage_bucket": "androidappestoril.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016481412932:android:b6a6804caec927fb",
+        "android_client_info": {
+          "package_name": "pt.estoril.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016481412932-eptlvs8m4d61i4dp380u4nas8i4qeu7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33Cjen0i_7HEnIdy82rAStikkW5LGrCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016481412932:android:14455451b32809dd",
+        "android_client_info": {
+          "package_name": "pt.estoril.estorilpraia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016481412932-usp6g3o97nqg5r8i3cocqimlkedn2ksr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.estoril.estorilpraia",
+            "certificate_hash": "6c88f100d70c0af628581091291a84ea1e3a198f"
+          }
+        },
+        {
+          "client_id": "1016481412932-eptlvs8m4d61i4dp380u4nas8i4qeu7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33Cjen0i_7HEnIdy82rAStikkW5LGrCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016481412932-eptlvs8m4d61i4dp380u4nas8i4qeu7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

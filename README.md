@@ -1,2 +1,0 @@
-# estorilpraia
-App estoril praia
